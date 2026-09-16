@@ -1,0 +1,6 @@
+{
+  "name": "CBBOSS SHOP",
+  "description": "Roblox Steal a Brainrot ve MM2 İlan Mağazası, Gamepass Satın Alım, Otomatik Kod Sistemi ve Canlı Sohbet Yönetimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

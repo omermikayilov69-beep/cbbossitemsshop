@@ -1,0 +1,386 @@
+{
+  "items": [
+    {
+      "id": "item-1789581760872-4z7p5",
+      "title": "Garama and Madundung",
+      "category": "steal-brainrot",
+      "price": 200,
+      "image": "https://static.wikia.nocookie.net/ukradite-breinrot/images/c/c3/Garamadundung.webp/revision/latest?cb=20250901215814&path-prefix=ru",
+      "description": "Roblox CBBOSS SHOP özel ürünü.",
+      "stock": 10,
+      "rarity": "Mythic",
+      "badgeText": "YENİ",
+      "gamepassName": "200 Robux Gamepass",
+      "createdAt": 1789581760872
+    },
+    {
+      "id": "item-1789581420518-1lpt8",
+      "title": "Test Item 123",
+      "category": "steal-brainrot",
+      "price": 300,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe",
+      "description": "Test",
+      "stock": 10,
+      "rarity": "Secret",
+      "badgeText": "",
+      "gamepassName": "300 Robux Gamepass",
+      "createdAt": 1789581420518
+    },
+    {
+      "id": "brainrot-1",
+      "title": "Tung Tung Sahur Brainrot",
+      "category": "steal-brainrot",
+      "price": 450,
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+      "description": "Özel ses efektli, ultra hızlı koşu ve süper çalma gücüne sahip efsanevi gizli Brainrot!",
+      "stock": 7,
+      "rarity": "Secret",
+      "badgeText": "🔥 EN ÇOK SATAN",
+      "gamepassName": "450 Robux Gamepass",
+      "createdAt": 1789567550388
+    },
+    {
+      "id": "brainrot-2",
+      "title": "Trallallero Trallalla Brainrot",
+      "category": "steal-brainrot",
+      "price": 250,
+      "image": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?w=600&auto=format&fit=crop&q=80",
+      "description": "İtalyan melodili, rakiplerin kafasını karıştıran Mythic sınıfı nadir brainrot pet.",
+      "stock": 12,
+      "rarity": "Mythic",
+      "badgeText": "⭐ POPÜLER",
+      "gamepassName": "250 Robux Gamepass",
+      "createdAt": 1789568550388
+    },
+    {
+      "id": "brainrot-3",
+      "title": "Skibidi Toilet Titan Brainrot",
+      "category": "steal-brainrot",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+      "description": "Devasa boyutlu lazer saldırısı ve özel dans animasyonlu Legendary Brainrot.",
+      "stock": 15,
+      "rarity": "Legendary",
+      "badgeText": "⚡ FIRSAT",
+      "gamepassName": "180 Robux Gamepass",
+      "createdAt": 1789569550388
+    },
+    {
+      "id": "brainrot-4",
+      "title": "Sigma Boy Giga Brainrot",
+      "category": "steal-brainrot",
+      "price": 320,
+      "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+      "description": "Altın çene hatları ve durdurulamaz savunma aurası ile Mythic koruma sağlar.",
+      "stock": 5,
+      "rarity": "Mythic",
+      "badgeText": "💎 AZ STOK",
+      "gamepassName": "320 Robux Gamepass",
+      "createdAt": 1789570550388
+    },
+    {
+      "id": "mm2-1",
+      "title": "Harvester Ancient Crossbow",
+      "category": "mm2",
+      "price": 1200,
+      "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+      "description": "Murder Mystery 2 tarihinin en değerli ve güçlü Ancient yay silahı. Özel vurma efekti!",
+      "stock": 4,
+      "rarity": "Ancient",
+      "badgeText": "👑 KRAL İTEM",
+      "gamepassName": "1200 Robux Gamepass",
+      "createdAt": 1789571550388
+    },
+    {
+      "id": "mm2-2",
+      "title": "Corrupt Godly Knife",
+      "category": "mm2",
+      "price": 950,
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+      "description": "Klasik ve efsanevi MM2 Godly bıçağı. Yüksek değer ve takas popülaritesi.",
+      "stock": 3,
+      "rarity": "Godly",
+      "badgeText": "⚔️ GODLY",
+      "gamepassName": "950 Robux Gamepass",
+      "createdAt": 1789572550388
+    },
+    {
+      "id": "mm2-3",
+      "title": "Bat Ancient Knife",
+      "category": "mm2",
+      "price": 850,
+      "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=80",
+      "description": "Karanlık kanatlı özel tasarım MM2 Ancient bıçak. Cadılar bayramı etkinliği klasiği.",
+      "stock": 6,
+      "rarity": "Ancient",
+      "badgeText": "🦇 ANCIENT",
+      "gamepassName": "850 Robux Gamepass",
+      "createdAt": 1789573550388
+    },
+    {
+      "id": "mm2-4",
+      "title": "Heartblade Godly Knife",
+      "category": "mm2",
+      "price": 150,
+      "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=600&auto=format&fit=crop&q=80",
+      "description": "Pembe parıltılı, sevilen pembe efektli uygun fiyatlı MM2 Godly.",
+      "stock": 20,
+      "rarity": "Godly",
+      "badgeText": "💖 HIZLI TESLİM",
+      "gamepassName": "150 Robux Gamepass",
+      "createdAt": 1789574550388
+    }
+  ],
+  "codes": [
+    {
+      "id": "code-1789579895546",
+      "code": "VIPTEST99",
+      "rewardItem": "VIP Godly Knife",
+      "category": "mm2",
+      "initialStock": 8,
+      "remainingStock": 7,
+      "createdAt": 1789579895546,
+      "claimedBy": [
+        {
+          "robloxUsername": "ProPlayer123",
+          "claimedAt": 1789579897780,
+          "ticketId": "TICKET-MU4DNYK4"
+        }
+      ]
+    },
+    {
+      "id": "code-1789579789567",
+      "code": "TESTCODE1",
+      "rewardItem": "Test Item",
+      "category": "steal-brainrot",
+      "initialStock": 5,
+      "remainingStock": 5,
+      "createdAt": 1789579789567,
+      "claimedBy": []
+    },
+    {
+      "id": "code-1789578099317",
+      "code": "FREEDRAGON555",
+      "rewardItem": "Dragon Canelloni",
+      "category": "steal-brainrot",
+      "initialStock": 1,
+      "remainingStock": 0,
+      "createdAt": 1789578099317,
+      "claimedBy": [
+        {
+          "robloxUsername": "CBBOSS_Admin",
+          "claimedAt": 1789578112366,
+          "ticketId": "TICKET-MU4CLOXA"
+        }
+      ]
+    },
+    {
+      "id": "code-1",
+      "code": "CBBOSS2026",
+      "rewardItem": "Mega Trallallero Brainrot",
+      "category": "steal-brainrot",
+      "initialStock": 5,
+      "remainingStock": 3,
+      "createdAt": 1789575550388,
+      "claimedBy": [
+        {
+          "robloxUsername": "TestPlayer99",
+          "claimedAt": 1789581858343,
+          "ticketId": "TICKET-MU4ETZC7"
+        },
+        {
+          "robloxUsername": "GamerAli",
+          "claimedAt": 1789581861660,
+          "ticketId": "TICKET-MU4EU1WC"
+        }
+      ]
+    },
+    {
+      "id": "code-2",
+      "code": "MM2FREE",
+      "rewardItem": "Heartblade Godly Knife",
+      "category": "mm2",
+      "initialStock": 3,
+      "remainingStock": 3,
+      "createdAt": 1789576550388,
+      "claimedBy": []
+    },
+    {
+      "id": "code-3",
+      "code": "BRAINROT100",
+      "rewardItem": "Skibidi Toilet Titan Brainrot",
+      "category": "steal-brainrot",
+      "initialStock": 10,
+      "remainingStock": 10,
+      "createdAt": 1789577050388,
+      "claimedBy": []
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-MU4CDIWZ",
+      "robloxUsername": "CBBOSS_Admin",
+      "items": [
+        {
+          "itemId": "brainrot-1",
+          "title": "Tung Tung Sahur Brainrot",
+          "category": "steal-brainrot",
+          "price": 450,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+          "rarity": "Secret"
+        }
+      ],
+      "totalPrice": 450,
+      "status": "gamepass_bought",
+      "ticketId": "CHAT-MU4CDIWZ",
+      "createdAt": 1789577731331,
+      "updatedAt": 1789577743616
+    }
+  ],
+  "chats": [
+    {
+      "id": "TICKET-MU4EU1WC",
+      "robloxUsername": "GamerAli",
+      "title": "🎁 Kod Ödülü: Mega Trallallero Brainrot",
+      "type": "code_claim",
+      "status": "open",
+      "codeClaimed": "CBBOSS2026",
+      "rewardItem": "Mega Trallallero Brainrot",
+      "createdAt": 1789581861660,
+      "lastMessageAt": 1789581861660,
+      "messages": [
+        {
+          "id": "msg-init-1789581861660",
+          "sender": "system",
+          "senderName": "Sistem",
+          "text": "🎉 Tebrikler! GamerAli kullanıcısı 'CBBOSS2026' kodunu kullandı ve 'Mega Trallallero Brainrot' kazandı! Admin teslimatı için bekleniyor.",
+          "timestamp": 1789581861660
+        },
+        {
+          "id": "msg-admin-auto-1789581861660",
+          "sender": "admin",
+          "senderName": "YTCBBOSS (@CBBOSSTEAM)",
+          "text": "Selam GamerAli! Kodun başarıyla onaylandı. Roblox hesabım @CBBOSSTEAM (Görünen adım: YTCBBOSS). Ödülün olan 'Mega Trallallero Brainrot' eşyasını teslim etmek için hazırım. Oyuna girip beni arkadaş ekle veya sohbete yaz!",
+          "timestamp": 1789581861760
+        }
+      ]
+    },
+    {
+      "id": "TICKET-MU4ETZC7",
+      "robloxUsername": "TestPlayer99",
+      "title": "🎁 Kod Ödülü: Mega Trallallero Brainrot",
+      "type": "code_claim",
+      "status": "open",
+      "codeClaimed": "CBBOSS2026",
+      "rewardItem": "Mega Trallallero Brainrot",
+      "createdAt": 1789581858343,
+      "lastMessageAt": 1789581858343,
+      "messages": [
+        {
+          "id": "msg-init-1789581858343",
+          "sender": "system",
+          "senderName": "Sistem",
+          "text": "🎉 Tebrikler! TestPlayer99 kullanıcısı 'CBBOSS2026' kodunu kullandı ve 'Mega Trallallero Brainrot' kazandı! Admin teslimatı için bekleniyor.",
+          "timestamp": 1789581858343
+        },
+        {
+          "id": "msg-admin-auto-1789581858343",
+          "sender": "admin",
+          "senderName": "YTCBBOSS (@CBBOSSTEAM)",
+          "text": "Selam TestPlayer99! Kodun başarıyla onaylandı. Roblox hesabım @CBBOSSTEAM (Görünen adım: YTCBBOSS). Ödülün olan 'Mega Trallallero Brainrot' eşyasını teslim etmek için hazırım. Oyuna girip beni arkadaş ekle veya sohbete yaz!",
+          "timestamp": 1789581858443
+        }
+      ]
+    },
+    {
+      "id": "TICKET-MU4DNYK4",
+      "robloxUsername": "ProPlayer123",
+      "title": "🎁 Kod Ödülü: VIP Godly Knife",
+      "type": "code_claim",
+      "status": "open",
+      "codeClaimed": "VIPTEST99",
+      "rewardItem": "VIP Godly Knife",
+      "createdAt": 1789579897780,
+      "lastMessageAt": 1789579897780,
+      "messages": [
+        {
+          "id": "msg-init-1789579897780",
+          "sender": "system",
+          "senderName": "Sistem",
+          "text": "🎉 Tebrikler! ProPlayer123 kullanıcısı 'VIPTEST99' kodunu kullandı ve 'VIP Godly Knife' kazandı! Admin teslimatı için bekleniyor.",
+          "timestamp": 1789579897780
+        },
+        {
+          "id": "msg-admin-auto-1789579897780",
+          "sender": "admin",
+          "senderName": "YTCBBOSS (@CBBOSSTEAM)",
+          "text": "Selam ProPlayer123! Kodun başarıyla onaylandı. Roblox hesabım @CBBOSSTEAM (Görünen adım: YTCBBOSS). Ödülün olan 'VIP Godly Knife' eşyasını teslim etmek için hazırım. Oyuna girip beni arkadaş ekle veya sohbete yaz!",
+          "timestamp": 1789579897880
+        }
+      ]
+    },
+    {
+      "id": "TICKET-MU4CLOXA",
+      "robloxUsername": "CBBOSS_Admin",
+      "title": "🎁 Kod Ödülü: Dragon Canelloni",
+      "type": "code_claim",
+      "status": "open",
+      "codeClaimed": "FREEDRAGON555",
+      "rewardItem": "Dragon Canelloni",
+      "createdAt": 1789578112366,
+      "lastMessageAt": 1789578112366,
+      "messages": [
+        {
+          "id": "msg-init-1789578112366",
+          "sender": "system",
+          "senderName": "Sistem",
+          "text": "🎉 Tebrikler! CBBOSS_Admin kullanıcısı 'FREEDRAGON555' kodunu kullandı ve 'Dragon Canelloni' kazandı! Admin teslimatı için bekleniyor.",
+          "timestamp": 1789578112366
+        },
+        {
+          "id": "msg-admin-auto-1789578112366",
+          "sender": "admin",
+          "senderName": "CBBOSS (Ömer Mikayılov)",
+          "text": "Selam CBBOSS_Admin! Kodun başarıyla onaylandı. Oyundaki Roblox ismini doğrulamak ve ödülün olan Dragon Canelloni teslimatı için buradayım. Oyuna girip beni arkadaş ekle veya server linkini bekle!",
+          "timestamp": 1789578112466
+        }
+      ]
+    },
+    {
+      "id": "CHAT-MU4CDIWZ",
+      "robloxUsername": "CBBOSS_Admin",
+      "title": "🛒 Sipariş: Tung Tung Sahur Brainrot (1x)",
+      "type": "order",
+      "status": "open",
+      "orderId": "ORD-MU4CDIWZ",
+      "totalRobux": 450,
+      "createdAt": 1789577731331,
+      "lastMessageAt": 1789577743616,
+      "messages": [
+        {
+          "id": "msg-sys-order",
+          "sender": "system",
+          "senderName": "Sistem",
+          "text": "Sipariş #ORD-MU4CDIWZ oluşturuldu. Toplam: 450 Robux. Gamepass alımı bekleniyor.",
+          "timestamp": 1789577731331
+        },
+        {
+          "id": "msg-bought-1789577743616",
+          "sender": "system",
+          "senderName": "Sistem",
+          "text": "🎉 Kullanıcı Roblox mağazasından Gamepass aldığını bildirdi! (Toplam: 450 Robux). Canlı teslimat başladı.",
+          "timestamp": 1789577743616
+        },
+        {
+          "id": "msg-adm-welcome-1789577743616",
+          "sender": "admin",
+          "senderName": "CBBOSS (Ömer Mikayılov)",
+          "text": "Merhaba CBBOSS_Admin! Tebrikler ve teşekkürler! Roblox mağazasındaki gamepass alımını gördüm. Şimdi oyunda sana ürünlerini teslim etmek için hazırım. Roblox ismin 'CBBOSS_Admin' doğru mu? Bana yaz, oyuna girip teslimatı tamamlayalım!",
+          "timestamp": 1789577743666
+        }
+      ]
+    }
+  ],
+  "version": 18
+}
